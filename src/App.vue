@@ -17,7 +17,7 @@ function add() {
     <div class="wrapper">
       <HelloWorld msg="You did it!" />
       <div>{{ myCount }}</div>
-      <button @click="add">click</button>
+      <button @click="add">clicks</button>
 
       <nav>
         <!-- <RouterLink to="/">Home</RouterLink>
